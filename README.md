@@ -2,6 +2,8 @@
 
 An open research whitepaper on process-dependent cognition, benchmark blind spots, and emergent abstraction in sustained human-AI interaction.
 
+Author: Hagen Loehrmann
+
 ## Overview
 
 This repository contains a whitepaper that argues for a simple but consequential shift in how advanced AI systems should be understood and evaluated.
