@@ -3,6 +3,7 @@
 An open research whitepaper on process-dependent cognition, benchmark blind spots, and emergent abstraction in sustained human-AI interaction.
 
 Author: Hagen Loehrmann
+DOI (v3.7.1): https://doi.org/10.5281/zenodo.18909508
 
 ## Overview
 
@@ -48,7 +49,9 @@ That matters for:
 
 ## Repository Contents
 
-- `The_Helix_Model_of_Cognitive_Abstraction_v3_7.pdf` - current manuscript of the whitepaper
+- `The_Helix_Model_of_Cognitive_Abstraction_v3_7.pdf` - current public manuscript of the whitepaper
+- `CITATION.cff` - citation metadata for GitHub and reference managers
+- `LICENSE` - repository license information
 
 ## Reading Note
 
