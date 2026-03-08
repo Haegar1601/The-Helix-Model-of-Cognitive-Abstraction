@@ -1,8 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this whitepaper, please cite it using the metadata from this file."
 title: "The Helix Model of Cognitive Abstraction in Human-AI Co-Creative Systems"
-version: "3.7"
+version: "3.7.1"
 date-released: 2026-03-08
+doi: 10.5281/zenodo.18909508
 type: report
 authors:
   - family-names: "Loehrmann"
