@@ -5,7 +5,8 @@ version: "3.7"
 date-released: 2026-03-08
 type: report
 authors:
-  - family-names: "Hagen"
+  - family-names: "Loehrmann"
+    given-names: "Hagen"
     affiliation: "Independent researcher and IT professional"
 abstract: >-
   Open research whitepaper introducing the Helix Model of Cognitive Abstraction
