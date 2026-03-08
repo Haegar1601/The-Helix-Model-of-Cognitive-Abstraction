@@ -46,7 +46,7 @@ That matters for:
 
 ## Repository Contents
 
-- `Textdokument (neu).txt` - current manuscript of the whitepaper
+- `The_Helix_Model_of_Cognitive_Abstraction_v3_7.pdf` - current manuscript of the whitepaper
 
 ## Reading Note
 
@@ -55,6 +55,12 @@ This whitepaper is cumulative by design. Its argument is intended to be read seq
 ## Status
 
 Current status: release-ready open research whitepaper.
+
+## License
+
+This whitepaper is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license.
+
+You may share the work with attribution for non-commercial purposes, but you may not distribute modified versions.
 
 ## Intended Audience
 
