@@ -3,7 +3,9 @@
 An open research whitepaper on process-dependent cognition, benchmark blind spots, and emergent abstraction in sustained human-AI interaction.
 
 Author: Hagen Loehrmann
-DOI (v3.7.1): https://doi.org/10.5281/zenodo.18909508
+Current manuscript version: v4.1
+Latest archived DOI (v3.7.1): https://doi.org/10.5281/zenodo.18909508
+Zenodo DOI for v4.1: to be added after the next GitHub release is archived
 
 ## Overview
 
@@ -49,9 +51,15 @@ That matters for:
 
 ## Repository Contents
 
-- `The_Helix_Model_of_Cognitive_Abstraction_v3_7.pdf` - current public manuscript of the whitepaper
+- `The_Helix_Model_of_Cognitive_Abstraction_v3_7.pdf` - latest archived manuscript currently stored in this repository
 - `CITATION.cff` - citation metadata for GitHub and reference managers
 - `LICENSE` - repository license information
+
+## Release Note
+
+The repository metadata now reflects whitepaper v4.1 as the current working release line.
+
+The most recent archived DOI currently points to v3.7.1. Once v4.1 is uploaded to GitHub and published as a release, Zenodo can mint a version-specific DOI for v4.1 and a concept DOI for the project as a whole.
 
 ## Reading Note
 
@@ -59,7 +67,7 @@ This whitepaper is cumulative by design. Its argument is intended to be read seq
 
 ## Status
 
-Current status: release-ready open research whitepaper.
+Current status: open research whitepaper, v4.1 metadata prepared for the next GitHub/Zenodo release.
 
 ## License
 
