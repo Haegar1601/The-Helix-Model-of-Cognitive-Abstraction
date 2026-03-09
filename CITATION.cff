@@ -3,7 +3,7 @@ message: "If you use this whitepaper, please cite it using the metadata from thi
 title: "The Helix Model of Cognitive Abstraction in Human-AI Co-Creative Systems"
 version: "4.3"
 date-released: 2026-03-09
-type: report
+url: "https://github.com/Haegar1601/The-Helix-Model-of-Cognitive-Abstraction"
 authors:
   - family-names: "Loehrmann"
     given-names: "Hagen"
@@ -14,7 +14,6 @@ abstract: >-
   process-dependent emergent abstraction in sustained human-AI interaction, with
   implications for benchmark design, persistent memory, neurodivergent cognition,
   and AGI assessment.
-repository-code: "https://github.com/Haegar1601/The-Helix-Model-of-Cognitive-Abstraction"
 keywords:
   - human-AI co-creation
   - cognitive abstraction
@@ -24,11 +23,14 @@ keywords:
   - persistent memory
   - neurodivergent cognition
   - AGI evaluation
-references:
-  - type: generic
-    title: "Zenodo concept DOI for all versions"
-    doi: 10.5281/zenodo.18909507
-  - type: generic
-    title: "Previous archived Zenodo release for whitepaper v4.1"
-    doi: 10.5281/zenodo.18922283
 license: "CC-BY-NC-ND-4.0"
+preferred-citation:
+  type: report
+  title: "The Helix Model of Cognitive Abstraction in Human-AI Co-Creative Systems"
+  authors:
+    - family-names: "Loehrmann"
+      given-names: "Hagen"
+      affiliation: "Independent researcher and IT professional"
+  version: "4.3"
+  date-released: 2026-03-09
+  url: "https://github.com/Haegar1601/The-Helix-Model-of-Cognitive-Abstraction"
