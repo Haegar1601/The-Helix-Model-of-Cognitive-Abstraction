@@ -1,9 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this whitepaper, please cite it using the metadata from this file."
 title: "The Helix Model of Cognitive Abstraction in Human-AI Co-Creative Systems"
-version: "4.1"
+version: "4.3"
 date-released: 2026-03-09
-doi: 10.5281/zenodo.18922283
 type: report
 authors:
   - family-names: "Loehrmann"
@@ -15,7 +14,7 @@ abstract: >-
   process-dependent emergent abstraction in sustained human-AI interaction, with
   implications for benchmark design, persistent memory, neurodivergent cognition,
   and AGI assessment.
-repository-code: "https://github.com/Hagen-Loehrmann/The_Helix_Model_of_Cognitive_Abstraction"
+repository-code: "https://github.com/Haegar1601/The-Helix-Model-of-Cognitive-Abstraction"
 keywords:
   - human-AI co-creation
   - cognitive abstraction
@@ -30,6 +29,6 @@ references:
     title: "Zenodo concept DOI for all versions"
     doi: 10.5281/zenodo.18909507
   - type: generic
-    title: "Archived Zenodo release for whitepaper v3.7.1"
-    doi: 10.5281/zenodo.18909508
+    title: "Previous archived Zenodo release for whitepaper v4.1"
+    doi: 10.5281/zenodo.18922283
 license: "CC-BY-NC-ND-4.0"
