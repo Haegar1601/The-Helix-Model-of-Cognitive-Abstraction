@@ -52,7 +52,7 @@ That matters for:
 
 ## Repository Contents
 
-- `The_Helix_Model_of_Cognitive_Abstraction_v4_1.pdf` - latest archived manuscript currently stored in this repository
+- `The_Helix_Model_of_Cognitive_Abstraction_v4.1.pdf` - latest archived manuscript currently stored in this repository
 - `CITATION.cff` - citation metadata for GitHub and reference managers
 - `LICENSE` - repository license information
 - GitHub release `v4.1` / Zenodo record - current citable archived release of the whitepaper
