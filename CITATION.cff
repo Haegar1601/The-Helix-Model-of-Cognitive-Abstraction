@@ -3,6 +3,7 @@ message: "If you use this whitepaper, please cite it using the metadata from thi
 title: "The Helix Model of Cognitive Abstraction in Human-AI Co-Creative Systems"
 version: "4.1"
 date-released: 2026-03-09
+doi: 10.5281/zenodo.18922283
 type: report
 authors:
   - family-names: "Loehrmann"
@@ -25,6 +26,9 @@ keywords:
   - neurodivergent cognition
   - AGI evaluation
 references:
+  - type: generic
+    title: "Zenodo concept DOI for all versions"
+    doi: 10.5281/zenodo.18909507
   - type: generic
     title: "Archived Zenodo release for whitepaper v3.7.1"
     doi: 10.5281/zenodo.18909508
