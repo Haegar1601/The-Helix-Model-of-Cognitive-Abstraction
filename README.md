@@ -4,8 +4,9 @@ An open research whitepaper on process-dependent cognition, benchmark blind spot
 
 Author: Hagen Loehrmann
 Current manuscript version: v4.1
-Latest archived DOI (v3.7.1): https://doi.org/10.5281/zenodo.18909508
-Zenodo DOI for v4.1: to be added after the next GitHub release is archived
+Zenodo DOI (v4.1): https://doi.org/10.5281/zenodo.18922283
+Zenodo concept DOI (all versions): https://doi.org/10.5281/zenodo.18909507
+Previous archived DOI (v3.7.1): https://doi.org/10.5281/zenodo.18909508
 
 ## Overview
 
@@ -54,12 +55,13 @@ That matters for:
 - `The_Helix_Model_of_Cognitive_Abstraction_v3_7.pdf` - latest archived manuscript currently stored in this repository
 - `CITATION.cff` - citation metadata for GitHub and reference managers
 - `LICENSE` - repository license information
+- GitHub release `v4.1` / Zenodo record - current citable archived release of the whitepaper
 
 ## Release Note
 
-The repository metadata now reflects whitepaper v4.1 as the current working release line.
+The repository metadata now reflects whitepaper v4.1 as the current citable release line.
 
-The most recent archived DOI currently points to v3.7.1. Once v4.1 is uploaded to GitHub and published as a release, Zenodo can mint a version-specific DOI for v4.1 and a concept DOI for the project as a whole.
+Whitepaper v4.1 is now archived on Zenodo with a version-specific DOI. The project-wide concept DOI resolves to the latest archived version across releases.
 
 ## Reading Note
 
@@ -67,7 +69,7 @@ This whitepaper is cumulative by design. Its argument is intended to be read seq
 
 ## Status
 
-Current status: open research whitepaper, v4.1 metadata prepared for the next GitHub/Zenodo release.
+Current status: open research whitepaper, v4.1 released and citable via Zenodo.
 
 ## License
 
