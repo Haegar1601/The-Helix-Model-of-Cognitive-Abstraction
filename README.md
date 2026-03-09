@@ -4,9 +4,8 @@ An open research whitepaper on process-dependent cognition, benchmark blind spot
 
 Author: Hagen Loehrmann
 Current manuscript version: v4.3
-Zenodo DOI (v4.3): to be added after the next GitHub release is archived by Zenodo
+Zenodo DOI (v4.3): https://doi.org/10.5281/zenodo.18925819
 Zenodo concept DOI (all versions): https://doi.org/10.5281/zenodo.18909507
-Previous archived DOI (v4.1): https://doi.org/10.5281/zenodo.18922283
 
 Recommended citation: use the metadata in CITATION.cff. After the v4.3 release is archived, update this README with the new version-specific DOI.
 
