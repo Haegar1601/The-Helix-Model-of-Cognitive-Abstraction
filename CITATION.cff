@@ -24,11 +24,4 @@ keywords:
   - persistent memory
   - neurodivergent cognition
   - AGI evaluation
-references:
-  - type: generic
-    title: "Zenodo concept DOI for all versions"
-    doi: 10.5281/zenodo.18909507
-  - type: generic
-    title: "Previous archived Zenodo release for whitepaper v4.1"
-    doi: 10.5281/zenodo.18922283
 license: "CC-BY-NC-ND-4.0"
