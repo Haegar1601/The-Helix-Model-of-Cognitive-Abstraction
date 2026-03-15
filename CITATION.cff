@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this whitepaper, please cite it using the metadata from this file."
 title: "The Helix Model of Cognitive Abstraction in Human-AI Co-Creative Systems"
-version: "4.8"
+version: "5.0"
 date-released: 2026-03-15
 authors:
   - family-names: "Loehrmann"
@@ -12,7 +12,8 @@ abstract: >-
   and the Helix Abstraction Level Scale (HALS), a framework for analyzing
   process-dependent emergent abstraction in sustained human-AI interaction, with
   implications for benchmark design, persistent memory, verification structure,
-  neurodivergent cognition, and AGI assessment.
+  neurodivergent cognition, AGI assessment, and the distinction between
+  negative and productive hallucination under uncertainty.
 repository-code: "https://github.com/Haegar1601/The-Helix-Model-of-Cognitive-Abstraction"
 identifiers:
   - type: doi
@@ -27,4 +28,5 @@ keywords:
   - persistent memory
   - neurodivergent cognition
   - AGI evaluation
+  - productive hallucination
 license: "CC-BY-NC-ND-4.0"
