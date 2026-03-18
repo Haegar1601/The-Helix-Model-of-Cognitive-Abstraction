@@ -3,12 +3,12 @@
 An open research whitepaper on process-dependent cognition, benchmark blind spots, and emergent abstraction in sustained human-AI interaction.
 
 Author: Hagen Loehrmann
-Current manuscript version: v5.0
-Zenodo DOI (v5.0): to be added after the GitHub v5.0 release is archived by Zenodo
+Current manuscript version: v5.4
+Zenodo DOI (v5.4): to be added after the GitHub v5.4 release is archived by Zenodo
 Zenodo concept DOI (all versions): https://doi.org/10.5281/zenodo.18909507
 Previous archived DOI (v4.1): https://doi.org/10.5281/zenodo.18922283
 
-Recommended citation: use the metadata in CITATION.cff. After the v5.0 release is archived, update this README with the new version-specific DOI.
+Recommended citation: use the metadata in CITATION.cff. After the v5.4 release is archived, update this README with the new version-specific DOI.
 
 ## Overview
 
@@ -18,7 +18,7 @@ Most current benchmark paradigms measure isolated model performance under cold-s
 
 The central proposal is the **Helix Model of Cognitive Abstraction**, together with the **Helix Abstraction Level Scale (HALS)**: a framework for analyzing how abstraction depth can increase over time in extended human-AI dialogue.
 
-The current manuscript line, v5.0, further consolidates the framework around process-dependent cognition, multi-model cross-validation, persistent memory, verification, abstraction descent, and the newly articulated distinction between negative and productive hallucination as complementary generative failure and discovery modes.
+The current manuscript line, v5.4, extends the framework around process-dependent cognition, cognitive allocation across layered systems, regime benchmarking, structured legibility, persistent memory, verification, abstraction descent, and resonance degeneration modes under sustained human-AI interaction.
 
 ## Core Claims
 
@@ -56,16 +56,16 @@ That matters for:
 
 ## Repository Contents
 
-- `The_Helix_Model_of_Cognitive_Abstraction_v5.0.pdf` - current manuscript prepared for the GitHub and Zenodo release
+- current release PDF manuscript
 - `CITATION.cff` - citation metadata for GitHub and reference managers
 - `LICENSE` - repository license information
 - GitHub release / Zenodo record - public archival layer for citable versions
 
 ## Release Note
 
-The repository metadata now reflects whitepaper v5.0 as the current major release line.
+The repository metadata now reflects whitepaper v5.4 as the current major release line.
 
-The latest archived Zenodo version is currently v4.1. After publishing the GitHub release for v5.0, Zenodo can mint a new version-specific DOI, while the concept DOI will continue to resolve to the latest archived version across releases.
+The latest archived Zenodo version is currently v4.1. After publishing the GitHub release for v5.4, Zenodo can mint a new version-specific DOI, while the concept DOI will continue to resolve to the latest archived version across releases.
 
 ## Reading Note
 
@@ -73,16 +73,16 @@ This whitepaper is cumulative by design. Its argument is intended to be read seq
 
 ## Status
 
-Current status: open research whitepaper, v5.0 prepared for the next public GitHub and Zenodo release.
+Current status: open research whitepaper, v5.4 prepared for the next public GitHub and Zenodo release.
 
 ## Release Workflow
 
-1. Commit the current `v5.0` manuscript files, `README.md`, and `CITATION.cff`.
+1. Commit the current `v5.4` manuscript files, `README.md`, and `CITATION.cff`.
 2. Push the changes to GitHub.
-3. Create a GitHub release tagged `v5.0`.
-4. Attach the `v5.0` PDF to the release if it is not already present in the repository.
+3. Create a GitHub release tagged `v5.4`.
+4. Attach the `v5.4` PDF to the release if it is not already present in the repository.
 5. Wait for Zenodo to archive the release and mint the new version DOI.
-6. Update `README.md` and `CITATION.cff` with the minted v5.0 DOI.
+6. Update `README.md` and `CITATION.cff` with the minted v5.4 DOI.
 
 ## License
 
